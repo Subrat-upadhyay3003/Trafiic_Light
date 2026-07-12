@@ -22,8 +22,12 @@
 | Green        |                     10 |
 | Yellow       |                      3 |
 | Red          |                     13 |
+
 <br> The above table is written according to our state diagram states<br>
+
 <br> And the below table is according to our main code I use the code for two road by calling them main road and side road but the overall timing is same.<br>
+
+
 | State | Main road | Side road |  Duration |
 | ----- | --------- | --------- | --------: |
 | `S0`  | Green     | Red       | 10 clocks |
