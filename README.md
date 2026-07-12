@@ -1,4 +1,4 @@
-# Trafiic_Light
+# Trafiic-Light
 
 
 ##Final Output waveform of the Trafic light ;
